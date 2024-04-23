@@ -1,6 +1,6 @@
 # open-mother
 
-[open-mother logo](assets/openmother.png)
+![open-mother logo](https://github.com/rtxdr/openmother/assets/openmother.png?raw=true)
 
 ## ⚠️⚠️ THIS PROJECT IS IN HEAVY WIP ⚠️⚠️
 ## About
