@@ -1,6 +1,6 @@
 # open-mother
 
-[open-mother logo](assets/openmother.svg)
+[open-mother logo](assets/openmother.png)
 
 ## ⚠️⚠️ THIS PROJECT IS IN HEAVY WIP ⚠️⚠️
 ## About
