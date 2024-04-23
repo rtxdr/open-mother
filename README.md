@@ -1,4 +1,7 @@
 # open-mother
+
+[open-mother logo](assets/openmother.svg)
+
 ## ⚠️⚠️ THIS PROJECT IS IN HEAVY WIP ⚠️⚠️
 ## About
 open-mother is a libre open source engine that tries to mimic the Mother series' gameplay.
